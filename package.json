@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.8.0",
+    "@openzeppelin/test-helpers": "^0.5.16",
+    "@truffle/hdwallet-provider": "^2.1.4",
+    "chai-bn": "^0.3.1",
+    "openzeppelin-solidity": "4.6.0",
+    "truffle-flattener": "^1.6.0"
+  },
+  "name": "luci-smart-contracts",
+  "description": "Beta live at: http://askluci.tech/qa",
+  "version": "1.0.0",
+  "main": "Develop-Stake-Unstake.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cryptohariseldon/Ask-luci.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cryptohariseldon/Ask-luci/issues"
+  },
+  "homepage": "https://github.com/cryptohariseldon/Ask-luci#readme"
+}
